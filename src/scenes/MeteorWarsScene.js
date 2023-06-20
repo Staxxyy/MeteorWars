@@ -22,7 +22,7 @@ preload(){
     this.load.image('background' ,'images/Luar Angkasa background.png')
     this.load.image('left-btn', 'images/left-btn.png')
     this.load.image('right-btn', 'images/right-btn.png')
-    this.load.image('shoot', 'images/shoot-btn.png')
+  
 
 
 
